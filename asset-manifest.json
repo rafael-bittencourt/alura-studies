@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.86f33d4f.css",
-    "main.js": "/static/js/main.d27aad89.js",
-    "static/media/check-mark.svg": "/static/media/check-mark.53f24c0a28e150404896.svg",
-    "index.html": "/index.html",
-    "main.86f33d4f.css.map": "/static/css/main.86f33d4f.css.map",
-    "main.d27aad89.js.map": "/static/js/main.d27aad89.js.map"
+    "main.css": "/alura-studies/static/css/main.c61f027b.css",
+    "main.js": "/alura-studies/static/js/main.d27aad89.js",
+    "static/media/check-mark.svg": "/alura-studies/static/media/check-mark.53f24c0a28e150404896.svg",
+    "index.html": "/alura-studies/index.html",
+    "main.c61f027b.css.map": "/alura-studies/static/css/main.c61f027b.css.map",
+    "main.d27aad89.js.map": "/alura-studies/static/js/main.d27aad89.js.map"
   },
   "entrypoints": [
-    "static/css/main.86f33d4f.css",
+    "static/css/main.c61f027b.css",
     "static/js/main.d27aad89.js"
   ]
 }
